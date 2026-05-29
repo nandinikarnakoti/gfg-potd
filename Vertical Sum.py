@@ -15,7 +15,6 @@ to the right-most vertical line.
 # Time Complexity: O(N) 
 # Space Complexity: O(N) 
 # ---------------------------------------------------
-
 # Structure of binary tree node
 '''
 class Node:
